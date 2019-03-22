@@ -2,6 +2,10 @@
 
 This shows how to make Camel run with Quarkus.
 
+See also my blog article explaining Quarkus in a bit more detail.
+
+https://alainpham.github.io/posts/quarkus-camel-first-impressions-on-a-game-changing-framework/
+
 ```
 mvn compile quarkus:dev
 ```
